@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1558025108 source:c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_arrays.h"
+	"arrayfantasma.h"
+
+1558025545 c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\utn_arrays.h
+	"validations.h"
+
+1558025545 c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\validations.h
+
+1557857863 c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\arrayfantasma.h
+
+1558025545 source:c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\utn_arrays.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_arrays.h"
+	"validations.h"
+
+1558025545 source:c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
