@@ -31,17 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="fantasma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fantasma.h" />
+		<Unit filename="informes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="informes.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="utn_arrays.c">
+		<Unit filename="utn.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="utn_arrays.h" />
-		<Unit filename="validations.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="validations.h" />
+		<Unit filename="utn.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
